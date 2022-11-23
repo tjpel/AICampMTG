@@ -39,6 +39,10 @@ st.write("Magic the Gathering is a popular trading card game produced by Wizards
     popular Magic the Gathering site polls players on the top 100 cards that they think are the saltiest. The average score and count of votes for these cards give \
     these cards a salt score. Below is an analysis on common attributes between these cards.")
 
-corrTable = px.imshow(df.corr(), text_auto=True, height=800, width=800, template='ggplot2', aspect='auto', title='Correlation of Numerical Columns')
+corr = df.corr(numeric_only=True)
+
+corrTable = px.imshow(corr, text_auto=True, height=800, width=800, template='ggplot2', aspect='auto', title='Correlation of Numerical Columns')
 corrTable.update_layout(title_x=0.5)
 st.plotly_chart(corrTable, use_container_width = True)
+
+print('Done!')
