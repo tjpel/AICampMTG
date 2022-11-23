@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
 import plotly.express as px
+import plotly as p
 
 def supertype(x):
     output = x.split('—') #split at dash
