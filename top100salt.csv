@@ -1,100 +1,100 @@
 ,name,score,cmc,colorid,price,type,date,set
 0,Stasis,2.92,2.0,['U'],,Enchantment,2011-01-10,Masters Edition IV
-1,Winter Orb,2.91,2.0,['CL'],12.75,Artifact,2016-06-10,Eternal Masters
-2,Static Orb,2.71,3.0,['CL'],20.58,Artifact,2001-04-11,Seventh Edition
-3,"Vorinclex, Voice of Hunger",2.6,8.0,['G'],13.49,Legendary Creature — Phyrexian Praetor,2017-11-17,Iconic Masters
-4,Expropriate,2.52,9.0,['U'],20.48,Sorcery,2016-08-26,Conspiracy: Take the Crown
-5,Armageddon,2.47,4.0,['W'],8.63,Sorcery,2018-03-16,Masters 25
-6,Thassa's Oracle,2.43,2.0,['U'],11.80,Creature — Merfolk Wizard,2020-01-24,Theros Beyond Death
+1,Winter Orb,2.91,2.0,['CL'],12.03,Artifact,2016-06-10,Eternal Masters
+2,Static Orb,2.71,3.0,['CL'],20.59,Artifact,2001-04-11,Seventh Edition
+3,"Vorinclex, Voice of Hunger",2.6,8.0,['G'],12.33,Legendary Creature — Phyrexian Praetor,2017-11-17,Iconic Masters
+4,Expropriate,2.52,9.0,['U'],20.60,Sorcery,2016-08-26,Conspiracy: Take the Crown
+5,Armageddon,2.47,4.0,['W'],8.92,Sorcery,2018-03-16,Masters 25
+6,Thassa's Oracle,2.43,2.0,['U'],11.40,Creature — Merfolk Wizard,2020-01-24,Theros Beyond Death
 7,Jokulhaups,2.4,6.0,['R'],,Sorcery,2007-09-10,Masters Edition
-8,Obliterate,2.39,8.0,['R'],4.47,Sorcery,2003-07-28,Eighth Edition
+8,Obliterate,2.39,8.0,['R'],4.41,Sorcery,2003-07-28,Eighth Edition
 9,Devastation,2.39,7.0,['R'],,Sorcery,2011-01-10,Masters Edition IV
 10,Ravages of War,2.37,4.0,['W'],,Sorcery,2008-09-22,Masters Edition II
-11,"Jin-Gitaxias, Core Augur",2.34,10.0,['U'],12.17,Legendary Creature — Phyrexian Praetor,2017-11-17,Iconic Masters
-12,"Urza, Lord High Artificer",2.32,4.0,['U'],48.21,Legendary Creature — Human Artificer,2019-06-14,Modern Horizons
-13,Dockside Extortionist,2.32,2.0,['R'],43.76,Creature — Goblin Pirate,2022-07-08,Double Masters 2022
-14,Cyclonic Rift,2.32,2.0,['U'],38.40,Instant,2020-08-07,Double Masters
+11,"Jin-Gitaxias, Core Augur",2.34,10.0,['U'],12.15,Legendary Creature — Phyrexian Praetor,2017-11-17,Iconic Masters
+12,"Urza, Lord High Artificer",2.32,4.0,['U'],48.46,Legendary Creature — Human Artificer,2019-06-14,Modern Horizons
+13,Dockside Extortionist,2.32,2.0,['R'],44.29,Creature — Goblin Pirate,2022-07-08,Double Masters 2022
+14,Cyclonic Rift,2.32,2.0,['U'],35.73,Instant,2020-08-07,Double Masters
 15,The Tabernacle at Pendrell Vale,2.32,0.0,['CL'],,Legendary Land,2009-09-07,Masters Edition III
-16,Sunder,2.31,5.0,['U'],7.26,Instant,1998-10-12,Urza's Saga
-17,Rhystic Study,2.25,3.0,['U'],35.78,Enchantment,2020-07-17,Jumpstart
-18,Decree of Annihilation,2.21,10.0,['R'],2.76,Sorcery,2003-05-26,Scourge
-19,Fierce Guardianship,2.21,3.0,['U'],61.34,Instant,2020-04-17,Commander 2020
+16,Sunder,2.31,5.0,['U'],7.15,Instant,1998-10-12,Urza's Saga
+17,Rhystic Study,2.25,3.0,['U'],36.16,Enchantment,2020-07-17,Jumpstart
+18,Decree of Annihilation,2.21,10.0,['R'],2.74,Sorcery,2003-05-26,Scourge
+19,Fierce Guardianship,2.21,3.0,['U'],60.19,Instant,2020-04-17,Commander 2020
 20,Humility,2.2,4.0,['W'],,Enchantment,2015-05-06,Tempest Remastered
-21,Apocalypse,2.16,5.0,['R'],6.49,Sorcery,1997-10-14,Tempest
+21,Apocalypse,2.16,5.0,['R'],6.50,Sorcery,1997-10-14,Tempest
 22,Smokestack,2.14,4.0,['CL'],,Artifact,2014-06-16,Vintage Masters
-23,Mindslaver,2.11,6.0,['CL'],5.21,Legendary Artifact,2010-10-01,Scars of Mirrodin
-24,Smothering Tithe,2.11,4.0,['W'],20.79,Enchantment,2022-07-08,Double Masters 2022
-25,"Hokori, Dust Drinker",2.29,4.0,['W'],3.97,Legendary Creature — Spirit,2005-02-04,Betrayers of Kamigawa
-26,Rising Waters,2.08,4.0,['U'],2.43,Enchantment,2000-02-14,Nemesis
+23,Mindslaver,2.11,6.0,['CL'],5.22,Legendary Artifact,2010-10-01,Scars of Mirrodin
+24,Smothering Tithe,2.11,4.0,['W'],21.55,Enchantment,2022-07-08,Double Masters 2022
+25,"Hokori, Dust Drinker",2.29,4.0,['W'],3.86,Legendary Creature — Spirit,2005-02-04,Betrayers of Kamigawa
+26,Rising Waters,2.08,4.0,['U'],2.45,Enchantment,2000-02-14,Nemesis
 27,Time Stretch,2.05,10.0,['U'],,Sorcery,2023-03-31,Dominaria Remastered
-28,Drannith Magistrate,2.03,2.0,['W'],9.58,Creature — Human Wizard,2020-04-24,Ikoria: Lair of Behemoths
+28,Drannith Magistrate,2.03,2.0,['W'],9.06,Creature — Human Wizard,2020-04-24,Ikoria: Lair of Behemoths
 29,Gaea's Cradle,2.03,0.0,['G'],1012.37,Legendary Land,1998-10-12,Urza's Saga
-30,Grand Arbiter Augustin IV,2.29,4.0,['MC'],2.31,Legendary Creature — Human Advisor,2022-07-08,Double Masters 2022
-31,Blightsteel Colossus,1.96,12.0,['CL'],63.97,Artifact Creature — Phyrexian Golem,2020-08-07,Double Masters
-32,Opposition Agent,1.95,3.0,['B'],11.97,Creature — Human Rogue,2020-11-20,Commander Legends
-33,"Narset, Parter of Veils",1.94,3.0,['U'],0.55,Legendary Planeswalker — Narset,2019-05-03,War of the Spark
-34,Back to Basics,1.94,3.0,['U'],9.02,Enchantment,2018-12-07,Ultimate Masters
+30,Grand Arbiter Augustin IV,2.29,4.0,['MC'],2.41,Legendary Creature — Human Advisor,2022-07-08,Double Masters 2022
+31,Blightsteel Colossus,1.96,12.0,['CL'],62.25,Artifact Creature — Phyrexian Golem,2020-08-07,Double Masters
+32,Opposition Agent,1.95,3.0,['B'],11.72,Creature — Human Rogue,2020-11-20,Commander Legends
+33,"Narset, Parter of Veils",1.94,3.0,['U'],0.60,Legendary Planeswalker — Narset,2019-05-03,War of the Spark
+34,Back to Basics,1.94,3.0,['U'],8.45,Enchantment,2018-12-07,Ultimate Masters
 35,Nexus of Fate,1.93,7.0,['U'],,Instant,2018-07-13,Core Set 2019
-36,"Emrakul, the Promised End",1.93,13.0,['CL'],54.23,Legendary Creature — Eldrazi,2016-07-22,Eldritch Moon
+36,"Emrakul, the Promised End",1.93,13.0,['CL'],52.80,Legendary Creature — Eldrazi,2016-07-22,Eldritch Moon
 37,Nether Void,1.92,4.0,['B'],,World Enchantment,2009-09-07,Masters Edition III
-38,Blood Moon,1.91,3.0,['R'],9.14,Enchantment,2020-08-07,Double Masters
-39,Void Winnower,1.87,9.0,['CL'],8.41,Creature — Eldrazi,2015-10-02,Battle for Zendikar
-40,Sen Triplets,1.87,5.0,['MC'],3.50,Legendary Artifact Creature — Human Wizard,2020-08-07,Double Masters
-41,"Jin-Gitaxias, Progress Tyrant",1.86,7.0,['U'],9.09,Legendary Creature — Phyrexian Praetor,2022-02-18,Kamigawa: Neon Dynasty
-42,Tectonic Break,1.86,2.0,['R'],2.49,Sorcery,1999-10-04,Mercadian Masques
-43,"Oko, Thief of Crowns",1.84,3.0,['MC'],14.14,Legendary Planeswalker — Oko,2019-10-04,Throne of Eldraine
-44,Thieves' Auction,1.83,7.0,['R'],2.15,Sorcery,2003-07-28,Eighth Edition
-45,Scrambleverse,1.83,8.0,['R'],0.40,Sorcery,2011-07-15,Magic 2012
+38,Blood Moon,1.91,3.0,['R'],9.13,Enchantment,2020-08-07,Double Masters
+39,Void Winnower,1.87,9.0,['CL'],8.42,Creature — Eldrazi,2015-10-02,Battle for Zendikar
+40,Sen Triplets,1.87,5.0,['MC'],3.29,Legendary Artifact Creature — Human Wizard,2020-08-07,Double Masters
+41,"Jin-Gitaxias, Progress Tyrant",1.86,7.0,['U'],9.14,Legendary Creature — Phyrexian Praetor,2022-02-18,Kamigawa: Neon Dynasty
+42,Tectonic Break,1.86,2.0,['R'],2.58,Sorcery,1999-10-04,Mercadian Masques
+43,"Oko, Thief of Crowns",1.84,3.0,['MC'],14.03,Legendary Planeswalker — Oko,2019-10-04,Throne of Eldraine
+44,Thieves' Auction,1.83,7.0,['R'],2.17,Sorcery,2003-07-28,Eighth Edition
+45,Scrambleverse,1.83,8.0,['R'],0.42,Sorcery,2011-07-15,Magic 2012
 46,Wake of Destruction,1.81,6.0,['R'],3.72,Sorcery,1999-06-07,Urza's Destiny
-47,"Teferi, Time Raveler",1.81,3.0,['MC'],14.03,Legendary Planeswalker — Teferi,2019-05-03,War of the Spark
-48,Ruination,1.8,4.0,['R'],8.66,Sorcery,2011-06-17,Commander 2011
-49,Overwhelming Splendor,1.8,8.0,['W'],2.76,Enchantment — Aura Curse,2017-07-14,Hour of Devastation
+47,"Teferi, Time Raveler",1.81,3.0,['MC'],12.21,Legendary Planeswalker — Teferi,2019-05-03,War of the Spark
+48,Ruination,1.8,4.0,['R'],8.61,Sorcery,2011-06-17,Commander 2011
+49,Overwhelming Splendor,1.8,8.0,['W'],2.80,Enchantment — Aura Curse,2017-07-14,Hour of Devastation
 50,Force of Will,1.79,5.0,['U'],,Instant,2023-03-31,Dominaria Remastered
-51,"Narset, Enlightened Master",1.79,6.0,['MC'],1.36,Legendary Creature — Human Monk,2014-09-26,Khans of Tarkir
-52,Omniscience,1.78,10.0,['U'],12.50,Enchantment,2018-07-13,Core Set 2019
+51,"Narset, Enlightened Master",1.79,6.0,['MC'],1.34,Legendary Creature — Human Monk,2014-09-26,Khans of Tarkir
+52,Omniscience,1.78,10.0,['U'],10.80,Enchantment,2018-07-13,Core Set 2019
 53,Mana Vortex,1.78,3.0,['U'],,Enchantment,2009-09-07,Masters Edition III
-54,Impending Disaster,1.78,2.0,['R'],1.18,Enchantment,1999-02-15,Urza's Legacy
+54,Impending Disaster,1.78,2.0,['R'],1.17,Enchantment,1999-02-15,Urza's Legacy
 55,Epicenter,1.77,5.0,['R'],1.46,Sorcery,2001-10-01,Odyssey
 56,Global Ruin,1.77,5.0,['W'],0.30,Sorcery,2000-10-02,Invasion
 57,Warp World,1.77,8.0,['R'],0.51,Sorcery,2009-07-17,Magic 2010
 58,Mana Breach,1.75,3.0,['U'],2.03,Enchantment,2001-04-11,Seventh Edition
-59,Consecrated Sphinx,1.73,6.0,['U'],19.90,Creature — Sphinx,2022-07-08,Double Masters 2022
+59,Consecrated Sphinx,1.73,6.0,['U'],18.99,Creature — Sphinx,2022-07-08,Double Masters 2022
 60,Edgar Markov,1.73,6.0,['MC'],,Legendary Creature — Vampire Knight,2017-08-25,Commander 2017
-61,Jeweled Lotus,1.73,0.0,['CL'],102.98,Artifact,2020-11-20,Commander Legends
+61,Jeweled Lotus,1.73,0.0,['CL'],98.57,Artifact,2020-11-20,Commander Legends
 62,Time Warp,1.72,5.0,['U'],,Sorcery,2015-05-06,Tempest Remastered
-63,"Elesh Norn, Grand Cenobite",1.71,7.0,['W'],21.13,Legendary Creature — Phyrexian Praetor,2017-11-17,Iconic Masters
-64,Mana Drain,1.71,2.0,['U'],38.31,Instant,2022-07-08,Double Masters 2022
-65,Boil,1.71,4.0,['R'],0.63,Instant,2003-07-28,Eighth Edition
+63,"Elesh Norn, Grand Cenobite",1.71,7.0,['W'],21.25,Legendary Creature — Phyrexian Praetor,2017-11-17,Iconic Masters
+64,Mana Drain,1.71,2.0,['U'],37.69,Instant,2022-07-08,Double Masters 2022
+65,Boil,1.71,4.0,['R'],0.62,Instant,2003-07-28,Eighth Edition
 66,Demonic Consultation,1.7,1.0,['B'],,Instant,2008-09-22,Masters Edition II
-67,Craterhoof Behemoth,1.7,8.0,['G'],27.55,Creature — Beast,2020-07-17,Jumpstart
-68,"Korvold, Fae-Cursed King",1.7,5.0,['MC'],15.82,Legendary Creature — Dragon Noble,2019-10-04,Throne of Eldraine
+67,Craterhoof Behemoth,1.7,8.0,['G'],28.30,Creature — Beast,2020-07-17,Jumpstart
+68,"Korvold, Fae-Cursed King",1.7,5.0,['MC'],15.38,Legendary Creature — Dragon Noble,2019-10-04,Throne of Eldraine
 69,Cataclysm,1.69,4.0,['W'],,Sorcery,2015-05-06,Tempest Remastered
-70,"Ulamog, the Infinite Gyre",1.69,11.0,['CL'],24.53,Legendary Creature — Eldrazi,2022-07-08,Double Masters 2022
-71,Force of Negation,1.69,3.0,['U'],30.55,Instant,2022-07-08,Double Masters 2022
-72,Gilded Drake,1.68,2.0,['U'],291.97,Creature — Drake,1998-10-12,Urza's Saga
-73,"Ulamog, the Ceaseless Hunger",1.67,10.0,['CL'],58.36,Legendary Creature — Eldrazi,2015-10-02,Battle for Zendikar
+70,"Ulamog, the Infinite Gyre",1.69,11.0,['CL'],22.30,Legendary Creature — Eldrazi,2022-07-08,Double Masters 2022
+71,Force of Negation,1.69,3.0,['U'],27.70,Instant,2022-07-08,Double Masters 2022
+72,Gilded Drake,1.68,2.0,['U'],289.32,Creature — Drake,1998-10-12,Urza's Saga
+73,"Ulamog, the Ceaseless Hunger",1.67,10.0,['CL'],55.62,Legendary Creature — Eldrazi,2015-10-02,Battle for Zendikar
 74,Divine Intervention,1.66,8.0,['W'],,Enchantment,2009-09-07,Masters Edition III
-75,Mana Crypt,1.66,0.0,['CL'],172.21,Artifact,2020-08-07,Double Masters
-76,Possessed Portal,1.65,8.0,['CL'],4.35,Artifact,2004-06-04,Fifth Dawn
-77,Gaddock Teeg,1.64,2.0,['MC'],3.42,Legendary Creature — Kithkin Advisor,2018-12-07,Ultimate Masters
+75,Mana Crypt,1.66,0.0,['CL'],175.20,Artifact,2020-08-07,Double Masters
+76,Possessed Portal,1.65,8.0,['CL'],4.22,Artifact,2004-06-04,Fifth Dawn
+77,Gaddock Teeg,1.64,2.0,['MC'],3.21,Legendary Creature — Kithkin Advisor,2018-12-07,Ultimate Masters
 78,Smoke,1.64,2.0,['R'],,Enchantment,2011-01-10,Masters Edition IV
-79,"Chulane, Teller of Tales",1.64,5.0,['MC'],8.09,Legendary Creature — Human Druid,2019-10-04,Throne of Eldraine
-80,Contamination,1.63,3.0,['B'],35.31,Enchantment,1998-10-12,Urza's Saga
+79,"Chulane, Teller of Tales",1.64,5.0,['MC'],8.45,Legendary Creature — Human Druid,2019-10-04,Throne of Eldraine
+80,Contamination,1.63,3.0,['B'],34.97,Enchantment,1998-10-12,Urza's Saga
 81,Catastrophe,1.63,6.0,['W'],7.03,Sorcery,1998-10-12,Urza's Saga
-82,Embargo,1.62,4.0,['U'],2.13,Enchantment,1999-10-04,Mercadian Masques
-83,Temporal Manipulation,1.62,5.0,['U'],22.81,Sorcery,2018-12-07,Ultimate Masters
+82,Embargo,1.62,4.0,['U'],2.12,Enchantment,1999-10-04,Mercadian Masques
+83,Temporal Manipulation,1.62,5.0,['U'],23.89,Sorcery,2018-12-07,Ultimate Masters
 84,Acid Rain,1.61,4.0,['U'],,Sorcery,2011-01-10,Masters Edition IV
-85,Worldpurge,1.61,8.0,['MC'],0.82,Sorcery,2008-05-02,Shadowmoor
+85,Worldpurge,1.61,8.0,['MC'],0.80,Sorcery,2008-05-02,Shadowmoor
 86,Flashfires,1.6,4.0,['R'],0.24,Sorcery,2005-07-29,Ninth Edition
-87,"Yuriko, the Tiger's Shadow",1.6,3.0,['MC'],8.35,Legendary Creature — Human Ninja,2018-08-09,Commander 2018
+87,"Yuriko, the Tiger's Shadow",1.6,3.0,['MC'],7.79,Legendary Creature — Human Ninja,2018-08-09,Commander 2018
 88,Thoughts of Ruin,1.6,4.0,['R'],0.66,Sorcery,2005-06-03,Saviors of Kamigawa
-89,Fall of the Thran,1.6,6.0,['W'],0.17,Enchantment — Saga,2018-04-27,Dominaria
+89,Fall of the Thran,1.6,6.0,['W'],0.18,Enchantment — Saga,2018-04-27,Dominaria
 90,Triumph of the Hordes,1.59,4.0,['G'],,Sorcery,2011-05-14,Duel Decks: Mirrodin Pure vs. New Phyrexia
-91,Oppression,1.59,3.0,['B'],18.18,Enchantment,2001-04-11,Seventh Edition
-92,Agent of Treachery,1.59,7.0,['U'],5.94,Creature — Human Rogue,2019-07-12,Core Set 2020
-93,Torment of Hailfire,1.58,2.0,['B'],16.75,Sorcery,2017-07-14,Hour of Devastation
+91,Oppression,1.59,3.0,['B'],18.04,Enchantment,2001-04-11,Seventh Edition
+92,Agent of Treachery,1.59,7.0,['U'],6.59,Creature — Human Rogue,2019-07-12,Core Set 2020
+93,Torment of Hailfire,1.58,2.0,['B'],15.67,Sorcery,2017-07-14,Hour of Devastation
 94,Keldon Firebombers,1.58,5.0,['R'],2.58,Creature — Human Soldier,2000-06-05,Prophecy
 95,Choke,1.57,3.0,['G'],1.45,Enchantment,2003-07-28,Eighth Edition
-96,Temporal Mastery,1.57,7.0,['U'],8.38,Sorcery,2017-03-17,Modern Masters 2017
-97,"Atraxa, Praetor's Voice",1.57,4.0,['MC'],33.30,Legendary Creature — Phyrexian Angel Horror,2020-08-07,Double Masters
+96,Temporal Mastery,1.57,7.0,['U'],8.35,Sorcery,2017-03-17,Modern Masters 2017
+97,"Atraxa, Praetor's Voice",1.57,4.0,['MC'],34.14,Legendary Creature — Phyrexian Angel Horror,2020-08-07,Double Masters
 98,Notion Thief,1.56,4.0,['MC'],1.82,Creature — Human Rogue,2020-09-25,Zendikar Rising Commander

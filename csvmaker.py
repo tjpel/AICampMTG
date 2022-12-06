@@ -34,19 +34,16 @@ for key in salt:
     card = scrython.Named(exact = key)
     time.sleep(0.075)
 
-    names.append(key)
-    scores.append(salt[key])
-    cmc.append(card.cmc())
-    ci.append(checkMC(checkCL(card.color_identity())))
-    price.append(card.prices("usd"))
-    type.append(card.type_line())
-    date.append(card.released_at())
-    setCode.append(card.set_name())
+    names.append(key) #add name
+    scores.append(salt[key]) #add salt score
+    cmc.append(card.cmc()) #add converted mana cost
+    ci.append(checkMC(checkCL(card.color_identity()))) #add color identity -- MC for multicolored, CL for colorless
+    price.append(card.prices("usd")) #add price
+    type.append(card.type_line()) #add type line
+    date.append(card.released_at()) #add initial release date
+    setCode.append(card.set_name()) #add initial set code
 
-
-
-d = {'name': names, 'score': scores, 'cmc': cmc, 'colorid': ci, 'price': price, 'type': type, 'date': date, 'set': setCode}
-df = pd.DataFrame(data=d)
+df = pd.DataFrame(data = {'name': names, 'score': scores, 'cmc': cmc, 'colorid': ci, 'price': price, 'type': type, 'date': date, 'set': setCode})
 df.to_csv("./top100salt.csv")
 
 print("Done")
