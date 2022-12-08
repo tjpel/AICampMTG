@@ -98,6 +98,8 @@ st.write("As we can see, blue has by a measure of 10% the most saltiest cards. A
 
 st.header("Conclusion")
 st.write("This data and the visualizations give us deep insight to some of the factors. First, we can see that my hypothesis was partially correct. Blue cards and sorcery\
-    cards are two of the saltiest cards. However, CMC has only a -0.036 correlation with salt score, and there are only 9instants (which allow for quick plays) in the\
+    cards are two of the saltiest cards. However, CMC has only a -0.036 correlation with salt score, and there are only 9 instants (which allow for quick plays) in the\
     top 100 saltiest cards. From the data, we could say that a blue creature or sorcery would be more likely to salty than any other card.")
+
+st.write("\n\n\nCreated by Thomas Pelowitz")
 print('Done!')
