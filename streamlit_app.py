@@ -42,6 +42,8 @@ corrTable = px.imshow(df.corr(numeric_only=True), text_auto=True, height=800, wi
 corrTable.update_layout(title_x=0.5)
 st.plotly_chart(corrTable, use_container_width = True)
 
+st.write("As we can see from this table, the only variable th")
+
 stvc = df['supertype'].value_counts()
 barFig = px.bar(stvc, x=stvc.index, y=stvc.values)
 st.plotly_chart(barFig)
