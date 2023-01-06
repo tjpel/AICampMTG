@@ -1,6 +1,8 @@
 import pandas as pd
 import scrython, time
 
+#Hello Purple Pandas
+
 salt = {'Stasis':2.92, 'Winter Orb':2.91, 'Static Orb':2.71, 'Vorinclex, Voice of Hunger':2.60, 'Expropriate': 2.52, 'Armageddon': 2.47, "Thassa's Oracle": 2.43,
         'Jokulhaups': 2.4, 'Obliterate': 2.39, 'Devastation':2.39, 'Ravages of War': 2.37, 'Jin-Gitaxias, Core Augur':2.34, 'Urza, Lord High Artificer':2.32,
         'Dockside Extortionist':2.32, 'Cyclonic Rift':2.32, 'The Tabernacle at Pendrell Vale':2.32, 'Sunder':2.31, 'Rhystic Study':2.25, 'Decree of Annihilation':2.21,
